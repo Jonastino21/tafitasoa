@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2rem 5%;
+    background: var(--second-bg-color);
+}
+.footer-text {
+    font-size: 1.6rem;
+   border-bottom: none;
+   display: inline;
+}
