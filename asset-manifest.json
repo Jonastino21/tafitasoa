@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tafitasoa/static/css/main.5924572d.css",
+    "main.js": "/tafitasoa/static/js/main.7be44ea9.js",
+    "static/js/703.2e93363d.chunk.js": "/tafitasoa/static/js/703.2e93363d.chunk.js",
+    "static/js/24.43c5f4b7.chunk.js": "/tafitasoa/static/js/24.43c5f4b7.chunk.js",
+    "static/media/carte.png": "/tafitasoa/static/media/carte.5aa4ab87e6c0bcafbc56.png",
+    "static/media/tsik.png": "/tafitasoa/static/media/tsik.4f459208ed5d8ba4a5a7.png",
+    "static/media/logo.svg": "/tafitasoa/static/media/logo.fa1fa1478d26bf403219b8cea0c30945.svg",
+    "index.html": "/tafitasoa/index.html",
+    "main.5924572d.css.map": "/tafitasoa/static/css/main.5924572d.css.map",
+    "main.7be44ea9.js.map": "/tafitasoa/static/js/main.7be44ea9.js.map",
+    "703.2e93363d.chunk.js.map": "/tafitasoa/static/js/703.2e93363d.chunk.js.map",
+    "24.43c5f4b7.chunk.js.map": "/tafitasoa/static/js/24.43c5f4b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5924572d.css",
+    "static/js/main.7be44ea9.js"
+  ]
+}
