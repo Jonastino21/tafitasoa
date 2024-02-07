@@ -9,7 +9,7 @@ const Navbar = ({ openModal }) => {
             <li><a href="#Apropos">About Me</a></li>
             <li><a href="#CarteVisite" onClick={openModal} >Generate a business card</a></li>
             <li><a href="#Contact">Contact Me</a></li>
-            <li><a href="https://jonastinocv.netlify.app/">My CV</a></li> 
+            <li><a href="https://jonastino21.github.io/Jonastino_cv/">My CV</a></li> 
         </nav>
         </header>
     ) 
