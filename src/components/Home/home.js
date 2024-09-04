@@ -8,7 +8,7 @@ const Home = () => {
 
   useEffect(() => {
     const options = {
-      strings: ['Developer React', 'Developer Symfony '],
+      strings: ['Web Developer', 'Mobile Developer ', 'Bug Hunter'],
       typeSpeed: 100,
       backSpeed: 10,
       backDelay: 1000,
